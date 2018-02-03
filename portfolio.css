@@ -5,22 +5,10 @@ body {
 p {
     color: navy;
     font-family: sans-serif
-    width: 50px;
     height: 100px;
     padding: 10px;
     margin-left: 10px;
     border: 1px solid gray;
     display: inline-block;
     text-align: left
-}
-
-.image_container div {
-    color: gray;
-    background: gray;
-    width: 100px;
-    height: 100px;
-    padding: 10px;
-    margin-left: 100px;
-    border: 1px solid gray;
-    display: inline-block;
 }
